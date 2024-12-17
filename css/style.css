@@ -1,0 +1,18 @@
+ 
+/* ====== Custom Style ====== */
+ 
+
+html,
+body {
+  margin: 0 auto;
+  color: #333;
+  background: #eee;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  padding: 20px;
+ 
+}
+
+ 

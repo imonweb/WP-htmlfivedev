@@ -1,0 +1,15 @@
+{
+    "name": "imon/html-five-dev",
+    "autoload": {
+        "psr-4": {
+            "HtmlFiveDev\\": "_classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imon",
+            "email": "contact@imonweb.co.uk"
+        }
+    ],
+    "require": {}
+}
